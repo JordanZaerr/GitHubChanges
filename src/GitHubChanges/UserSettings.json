@@ -1,0 +1,16 @@
+﻿{
+  "GitHubPAT": "",
+  "JiraRootUrl": "https://jiraDomain.com/browse/",
+  "TagPrefixes": [
+    "v",
+    "db",
+    "mfe",
+    "bff",
+    "api",
+    "v.",
+    "db.",
+    "mfe.",
+    "bff.",
+    "api."
+  ] 
+}
